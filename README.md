@@ -1,3 +1,5 @@
 # Spring Boot MySQL Example
 
-You can learn more about my courses [here](http://courses.springframework.guru/courses/) on my site.
+John Thompson's course can be seen here https://www.udemy.com/spring-framework-5-beginner-to-guru/
+
+As always I am making this repo to practice more with Git.
